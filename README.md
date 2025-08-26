@@ -48,7 +48,7 @@ xxxxxxx
 - xxxxxxxx
 - xxxxxxxx
 
-# 📅 Cronograma de Sprints
+## 📅 Cronograma de Sprints
 
 | Sprint   | Período       | Documentação        |
 |----------|--------------|---------------------|
@@ -56,7 +56,7 @@ xxxxxxx
 | 📌 SPRINT 2 | 00/00 - 00/00 | [Sprint 2 Docs](#) |
 | 📌 SPRINT 3 | 00/00 - 00/00 | [Sprint 3 Docs](#) |
 
-# 💻 Tecnologias
+## 💻 Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
