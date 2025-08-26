@@ -4,7 +4,7 @@
 
 <div align="center">
 
-| [Desafio](#desafio) | [Solução](#solução) | [Cronograma de Sprints](#cronograma-de-sprints) | [Tecnologias Utilizadas](#tecnologias-utilizadas) | [Manual de Instalação](#manual-de-instalação) | [Equipe](#equipe) |
+| [Objetivo do Projeto](#objetivo-do-projeto) | [Cronograma de Sprints](#cronograma-de-sprints) | [Tecnologias Utilizadas](#tecnologias-utilizadas) | [Manual de Instalação](#manual-de-instalação) | [Equipe](#equipe) |
 
 </div>
 
@@ -41,7 +41,7 @@ Desenvolver um sistema de suporte técnico que atenda as solicitações internas
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📖 Manual de Instalação
-### Status: Em processo 🟡
+> Status: Em processo 🟡
 
 # 👥 Equipe
 
