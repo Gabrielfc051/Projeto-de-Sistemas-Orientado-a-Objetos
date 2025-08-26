@@ -2,7 +2,12 @@
 
 ![Logo da Empresa](https://github.com/user-attachments/assets/b7a4ce2d-20f7-4a12-8cb4-530f36fb1950)
 
-| [Desafio](link) | [Solução](link) | [Backlog do Produto](link) | [Cronograma de Sprints]() | [Tabela Descritiva]() | [Tecnologias Utilizadas]() | [Estrutura do Projeto]() | [Manual de Instalação]() | [Equipe]() | [DoR]() | [DoD]() |
+<div align="center">
+
+| [Desafio](#desafio) | [Solução](#solução) | [Backlog do Produto](#backlog-do-produto) | [Cronograma de Sprints](#cronograma-de-sprints) | [Tabela Descritiva](#tabela-descritiva) | [Tecnologias Utilizadas](#tecnologias-utilizadas) |  
+| [Estrutura do Projeto](#estrutura-do-projeto) | [Manual de Instalação](#manual-de-instalação) | [Equipe](#equipe) | [DoR](#dor) | [DoD](#dod) |
+
+</div>
 
 Status do Projeto: Concluído ✅  
 Relatório de Testes: [PDF](link) 📄  
