@@ -70,8 +70,12 @@ xxxxxxx
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
----
+##📖 Manual de Instalação
+- xxxxxx
+- xxxxxx
+- xxxxxx
+- xxxxxx
+- xxxxxx
 
 ## 👥 Equipe
 
