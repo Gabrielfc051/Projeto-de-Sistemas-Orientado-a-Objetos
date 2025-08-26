@@ -43,7 +43,7 @@ Desenvolver um sistema de suporte técnico que atenda as solicitações internas
 ## 📖 Manual de Instalação
 > Status: Em processo 🟡
 
-# 👥 Equipe
+## 👥 Equipe
 
 | Membro                       | Função          | GitHub                                                                                     | LinkedIn                                                                                   |
 |-----------------------------|-----------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
