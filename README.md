@@ -9,9 +9,12 @@
 
 </div>
 
-> Status do Projeto: Concluído ✅  
-> Relatório de Testes: [PDF](link) 📄  
-> Pasta de Documentação: [Link](link) 🔗  
+> Status do Projeto: Concluído ✅
+
+> Relatório de Testes: [PDF](link) 📄
+
+> Pasta de Documentação: [Link](link) 🔗
+
 > Vídeo do Projeto: [Youtube](link) 🎥 
 
 ## 📌 Desafio
