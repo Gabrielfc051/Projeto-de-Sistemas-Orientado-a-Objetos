@@ -78,16 +78,13 @@ xxxxxxx
 - xxxxxx
 - xxxxxx
 
-## 👥 Equipe
-
-```markdown
 # 👥 Equipe
 
-| Membro        | Função          | GitHub | LinkedIn |
-|---------------|----------------|--------|----------|
-| Maria Luíza Fonseca Amaro   | Product Owner  | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MariaFAmaro01) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/felipefreitasrocha) |
-| Felipe Freitas da Rocha    | Scrum Master   | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Felipe-Freitas-Rocha) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/felipefreitasrocha) |
-| Ana Beatriz Barni Franco | Desenvolvedor | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anabarni) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/felipefreitasrocha) |
-| Gabriel Freitas de Campos  | Desenvolvedor  | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielFreitas2025) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/felipefreitasrocha) |
-| Maio de Almeida Braga   | Desenvolvedor  | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maioAB) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/felipefreitasrocha) |
-| Nicolas Furtado Rodrigues    | Desenvolvedor  | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkiraNyaprog) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/felipefreitasrocha) |
+| Membro                       | Função          | GitHub                                                                                     | LinkedIn                                                                                   |
+|-----------------------------|-----------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| Maria Luíza Fonseca Amaro   | Product Owner   | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MariaFAmaro01) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marialuizaamaro) |
+| Felipe Freitas da Rocha     | Scrum Master    | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Felipe-Freitas-Rocha) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipefreitasrocha) |
+| Ana Beatriz Barni Franco    | Desenvolvedora  | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anabarni) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anabeatrizfranco) |
+| Gabriel Freitas de Campos   | Desenvolvedor   | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielFreitas2025) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielfreitascampos) |
+| Maio de Almeida Braga       | Desenvolvedor   | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maioAB) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maiobraga) |
+| Nicolas Furtado Rodrigues   | Desenvolvedor   | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkiraNyaprog) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolasfurtado) |
