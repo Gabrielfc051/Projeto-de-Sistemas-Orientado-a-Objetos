@@ -4,57 +4,35 @@
 
 <div align="center">
 
-| [Desafio](#desafio) | [Solução](#solução) | [Backlog do Produto](#backlog-do-produto) | [Cronograma de Sprints](#cronograma-de-sprints) | [Tabela Descritiva](#tabela-descritiva) | [Tecnologias Utilizadas](#tecnologias-utilizadas) |  
-| [Estrutura do Projeto](#estrutura-do-projeto) | [Manual de Instalação](#manual-de-instalação) | [Equipe](#equipe) | [DoR](#dor) | [DoD](#dod) |
+| [Desafio](#desafio) | [Solução](#solução) | [Cronograma de Sprints](#cronograma-de-sprints) | [Tecnologias Utilizadas](#tecnologias-utilizadas) | [Manual de Instalação](#manual-de-instalação) | [Equipe](#equipe) |
 
 </div>
 
 > Status do Projeto: Em processo 🟡
 >
-> Relatório de Testes: [PDF](link) 📄
+> Relatório de Testes: [PDF](link) 📄 **Em desenvolvimento**
 >
-> Pasta de Documentação: [Link](link) 🔗
+> Pasta de Documentação: [Link](link) 🔗 **Em desenvolvimento**
 >
-> Vídeo do Projeto: [Youtube](link) 🎥 
+> Vídeo do Projeto: [Youtube](link) 🎥 **Em desenvolvimento**
 
-## 📌 Desafio
-xxxxxxx
-
-## 📌 Solução
-xxxxxxx
-
-## 🗂️ Backlog do Produto
-
-| Rank | Prioridade | User Story | Story Points | Sprint | Requisito do Cliente | Status |
-|------|------------|------------|--------------|--------|-----------------------|--------|
-| 1 | Alta | texto | 14 | 1 | R02 | ⬜ 🟡 ✅ |
-| 2 | x| xx | xxx | xxxx | xxxxx | ⬜ 🟡 ✅ |
-| 3 | x | xx | xxx | xxxx | xxxxx | ⬜ 🟡 ✅ |
-| 4 | x | xx | xxx | xxxx | xxxxx | ⬜ 🟡 ✅ |
-| 5 | x | xx | xxx | xxxx | xxxxx | ⬜ 🟡 ✅ |
-| 6 | x | xx | xxx | xxxx | xxxxx | ⬜ 🟡 ✅ |
-
-## 🏃‍ DoR - Definition of Ready
-- xxxxxxxx
-- xxxxxxxx
-- xxxxxxxx
-- xxxxxxxx
-- xxxxxxxx
-
-## 🏆 DoD - Definition of Done
-- xxxxxxxx
-- xxxxxxxx
-- xxxxxxxx
-- xxxxxxxx
-- xxxxxxxx
+## 📌 Objetivo do Projeto
+Desenvolver um sistema de suporte técnico que atenda as solicitações internas. Com um sistema integrado no qual os colaboradores possam registrar suas solicitações e a IA possa sugerir soluções automáticas ou encaminhar ao técnico adequado com base no histórico de chamados e complexidade do sistema.
 
 ## 📅 Cronograma de Sprints
 
 | Sprint   | Período       | Documentação        |
 |----------|--------------|---------------------|
-| 📌 SPRINT 1 | 00/00 - 00/00 | [Sprint 1 Docs](#) |
-| 📌 SPRINT 2 | 00/00 - 00/00 | [Sprint 2 Docs](#) |
-| 📌 SPRINT 3 | 00/00 - 00/00 | [Sprint 3 Docs](#) |
+| 📌 SPRINT 1 | 20/08 | Elaboração do Github pessoal e do repositório do projeto. |
+| 📌 SPRINT 2 | 27/08 | Configuração do ambiente de desenvolvimento. |
+| 📌 SPRINT 3 | 03/09 | Início da codificaçação - módulo da gestão de usuários. |
+| 📌 SPRINT 4 | 10/09 | Desenvolvimento do módulo de chamados. |
+| 📌 SPRINT 5 | 17/09 | Desenvolvimento do módulo de suporte técnico. |
+| 📌 SPRINT 6 | 24/09 | Integração da funcionalidade de IA. |
+| 📌 SPRINT 7 | 01/10 | Teste unitários e de integração. |
+| 📌 SPRINT 8 | 08/10 | Correção de bugs e ajustes de interface. |
+| 📌 SPRINT 9 | 15/10 | Documentação e preparação para entrega. |
+| 📌 SPRINT 10 | 22/10| Entrega prevista do projeto 4. |
 
 ## 💻 Tecnologias
 
@@ -63,12 +41,7 @@ xxxxxxx
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📖 Manual de Instalação
-### 🛠 Pré-requisitos
-- xxxxxx
-- xxxxxx
-- xxxxxx
-- xxxxxx
-- xxxxxx
+### Status: Em processo 🟡
 
 # 👥 Equipe
 
