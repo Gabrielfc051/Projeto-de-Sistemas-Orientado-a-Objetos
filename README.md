@@ -18,7 +18,7 @@
 
 ## 📝 Descrição do Desafio
 
-- Uma empresa de médio porte possui um setor de TI responsável por atender solicitações internas de suporte técnico. Atualmente, todas as requisições são recebidas por e-mail ou telefone, o que gera:
+-Uma empresa de médio porte possui um setor de TI responsável por atender solicitações internas de suporte técnico. Atualmente, todas as requisições são recebidas por e-mail ou telefone, o que gera:
 
 -Dificuldades no controle dos chamados;
 
@@ -67,39 +67,39 @@
 
 ## 📂 Estrutura do Projeto
 ### 📦 sistema-suporte-ia
-| 📂 docs/           → Documentação e relatórios de Sprint
-| 📂 frontend/       → Protótipos e código do frontend
-| 📂 backend/        → API e lógica de negócio
-| 📂 database/       → Scripts e modelos do banco de dados
-| 📂 tests/          → Casos de teste
-| README.md          → Documentação principal
+┣ 📂 docs/ → Documentação e relatórios de Sprint
+┣ 📂 frontend/ → Protótipos e código do frontend
+┣ 📂 backend/ → API e lógica de negócio
+┣ 📂 database/ → Scripts e modelos do banco de dados
+┣ 📂 tests/ → Casos de teste
+┗ 📄 README.md → Documentação principal
 
 ## ⚙️ Como Executar, Usar e Testar o Projeto
 
 1.Clone o repositório:
 
-> git clone https://github.com/seu-usuario/sistema-suporte-ia.git
-> cd sistema-suporte-ia
+- git clone https://github.com/seu-usuario/sistema-suporte-ia.git
+- cd sistema-suporte-ia
 
 2.Configure o ambiente virtual e instale as dependências:
 
-> python -m venv venv
-> source venv/bin/activate  # Linux/Mac
-> venv\Scripts\activate     # Windows
-> pip install -r requirements.txt
+- python -m venv venv
+- source venv/bin/activate  # Linux/Mac
+- venv\Scripts\activate     # Windows
+- pip install -r requirements.txt
 
 3.Execute o servidor backend:
 
-> python manage.py runserver
+- python manage.py runserver
 
 4.Execute o frontend (React):
 
-> cd frontend
-> npm install
-> npm start
+- cd frontend
+- npm install
+- npm start
 
 5.Testes:
-> pytest
+- pytest
 
 ## 📖 Manual de Instalação
 > Status: Em processo 🟡
