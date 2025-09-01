@@ -87,7 +87,10 @@
 > Status: Em processo 🟡
 
 
-## ✅ Checklist de DoR e DoD
+## ✅ Checklist de DoR
+
+
+## ✅ Checklist de DoD
 
 
 ## 👥 Equipe
