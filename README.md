@@ -16,6 +16,7 @@
 >
 > Vídeo do Projeto: [Youtube](link) 🎥 **Em desenvolvimento**
 
+
 ## 📝 Descrição do Desafio
 
 -Uma empresa de médio porte possui um setor de TI responsável por atender solicitações internas de suporte técnico. Atualmente, todas as requisições são recebidas por e-mail ou telefone, o que gera:
@@ -27,6 +28,7 @@
 -Falhas na priorização dos problemas.
 
 - A solução proposta é um sistema integrado de suporte técnico com IA, permitindo que os colaboradores registrem suas solicitações diretamente na plataforma, com inteligência artificial sugerindo soluções automáticas ou encaminhando ao técnico adequado com base no histórico de chamados e na complexidade do problema.
+  
 
 ## 📦 Backlog de Produto
 
@@ -44,6 +46,7 @@
 
 - Integração com notificações (e-mail/Teams).
 
+
 ## 📅 Cronograma de Sprints
 
 | Sprint   | Período       | Documentação        |
@@ -59,27 +62,30 @@
 | 📌 SPRINT 9 | 15/10 | Documentação e preparação para entrega. |
 | 📌 SPRINT 10 | 22/10| Entrega prevista do projeto 4. |
 
+
 ## 💻 Tecnologias Usadas (até o momento)
 
 ![Astah](https://img.shields.io/badge/Astah-3776AB?style=for-the-badge&logo=astah&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-3776AB?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
+
 ## 📂 Estrutura do Projeto
-### 📦 sistema-suporte-ia
-┣ 📂 docs/ → Documentação e relatórios de Sprint
-┣ 📂 frontend/ → Protótipos e código do frontend
-┣ 📂 backend/ → API e lógica de negócio
-┣ 📂 database/ → Scripts e modelos do banco de dados
-┣ 📂 tests/ → Casos de teste
-┗ 📄 README.md → Documentação principal
+- 📦 **sistema-suporte-ia**
+  - 📂 **docs/** → Documentação e relatórios de Sprint  
+  - 📂 **frontend/** → Protótipos e código do frontend  
+  - 📂 **backend/** → API e lógica de negócio  
+  - 📂 **database/** → Scripts e modelos do banco de dados  
+  - 📂 **tests/** → Casos de teste  
+  - 📄 **README.md** → Documentação principal  
+
 
 ## ⚙️ Como Executar, Usar e Testar o Projeto
 
 1.Clone o repositório:
 
-- git clone https://github.com/seu-usuario/sistema-suporte-ia.git
-- cd sistema-suporte-ia
+- git clone https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos.git
+- cd Projeto-de-Sistemas-Orientado-a-Objetos
 
 2.Configure o ambiente virtual e instale as dependências:
 
@@ -104,13 +110,14 @@
 ## 📖 Manual de Instalação
 > Status: Em processo 🟡
 
+
 ## ✅ Checklist de DoR e DoD
 
-### DoR (Definition of Ready): Critérios para início de uma história.
+-DoR (Definition of Ready): Critérios para início de uma história.
 
-### DoD (Definition of Done): Critérios para aceite da entrega.
+-DoD (Definition of Done): Critérios para aceite da entrega.
 
-## 📌 DoR e DoD por Sprint
+### 📌 DoR e DoD por Sprint
 
 -Sprint 1
 
