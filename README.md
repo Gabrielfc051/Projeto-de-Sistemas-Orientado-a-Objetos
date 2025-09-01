@@ -4,7 +4,7 @@
 
 <div align="center">
 
-| [Objetivo do Projeto](#objetivo-do-projeto) | [Cronograma de Sprints](#cronograma-de-sprints) | [Tecnologias Utilizadas](#tecnologias-utilizadas) | [Manual de Instalação](#manual-de-instalação) | [Equipe](#equipe) |
+| [Descrição do Desafio](#descrição-do-desafio) | [Backlog do Produto](#backlog-do-produto) | [Cronograma de Sprints](#cronograma-de-sprints) | [Tecnologias Utilizadas](#tecnologias-utilizadas) | [Estrutura do Projeto](#estrutura-do-projeto) | [Como Executar, Usar e Testar o Projeto](#como-executar-usar-e-testar-o-projeto)| [Manual de Instalação](#manual-de-instalação)| [Checklist de DoR e DoD](#checklist-de-dor-e-dod) | [Equipe](#equipe) |
 
 </div>
 
@@ -30,7 +30,7 @@
 - A solução proposta é um sistema integrado de suporte técnico com IA, permitindo que os colaboradores registrem suas solicitações diretamente na plataforma, com inteligência artificial sugerindo soluções automáticas ou encaminhando ao técnico adequado com base no histórico de chamados e na complexidade do problema.
   
 
-## 📦 Backlog de Produto
+## 📦 Backlog do Produto
 
 - Registro de solicitações de suporte.
 
