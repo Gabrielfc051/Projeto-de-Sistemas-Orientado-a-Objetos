@@ -1,6 +1,6 @@
-# PIM 4º Semestre ADS
-
+<div align="center">
 ![Logo da Empresa](https://github.com/user-attachments/assets/b7a4ce2d-20f7-4a12-8cb4-530f36fb1950)
+</div>
 
 <div align="center">
 
