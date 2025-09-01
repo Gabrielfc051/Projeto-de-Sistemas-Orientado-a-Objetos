@@ -16,7 +16,7 @@
 >
 > Vídeo do Projeto: [Youtube](link) 🎥 **Em desenvolvimento**
 
-📝 Descrição do Desafio
+## 📝 Descrição do Desafio
 
 Uma empresa de médio porte possui um setor de TI responsável por atender solicitações internas de suporte técnico. Atualmente, todas as requisições são recebidas por e-mail ou telefone, o que gera:
 
@@ -26,23 +26,23 @@ Uma empresa de médio porte possui um setor de TI responsável por atender solic
 
 -Falhas na priorização dos problemas.
 
-> A solução proposta é um sistema integrado de suporte técnico com IA, permitindo que os colaboradores registrem suas solicitações diretamente na plataforma, com inteligência artificial sugerindo soluções automáticas ou encaminhando ao técnico adequado com base no histórico de chamados e na complexidade do problema.
+- A solução proposta é um sistema integrado de suporte técnico com IA, permitindo que os colaboradores registrem suas solicitações diretamente na plataforma, com inteligência artificial sugerindo soluções automáticas ou encaminhando ao técnico adequado com base no histórico de chamados e na complexidade do problema.
 
-📦 Backlog de Produto
+## 📦 Backlog de Produto
 
-Registro de solicitações de suporte.
+-Registro de solicitações de suporte.
 
-Sugestões automáticas via IA.
+-Sugestões automáticas via IA.
 
-Encaminhamento ao técnico responsável.
+-Encaminhamento ao técnico responsável.
 
-Priorização de chamados por urgência e complexidade.
+-Priorização de chamados por urgência e complexidade.
 
-Relatórios gerenciais para acompanhamento.
+-Relatórios gerenciais para acompanhamento.
 
-Histórico de solicitações por usuário.
+-Histórico de solicitações por usuário.
 
-Integração com notificações (e-mail/Teams).
+-Integração com notificações (e-mail/Teams).
 
 ## 📅 Cronograma de Sprints
 
@@ -65,16 +65,16 @@ Integração com notificações (e-mail/Teams).
 ![Figma](https://img.shields.io/badge/Figma-3776AB?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
-📂 Estrutura do Projeto
-📦 sistema-suporte-ia
- ┣ 📂 docs/           → Documentação e relatórios de Sprint
- ┣ 📂 frontend/       → Protótipos e código do frontend
- ┣ 📂 backend/        → API e lógica de negócio
- ┣ 📂 database/       → Scripts e modelos do banco de dados
- ┣ 📂 tests/          → Casos de teste
- ┣ README.md          → Documentação principal
+## 📂 Estrutura do Projeto
+# 📦 sistema-suporte-ia
+ | 📂 docs/           → Documentação e relatórios de Sprint
+ | 📂 frontend/       → Protótipos e código do frontend
+ | 📂 backend/        → API e lógica de negócio
+ | 📂 database/       → Scripts e modelos do banco de dados
+ | 📂 tests/          → Casos de teste
+ | README.md          → Documentação principal
 
- ⚙️ Como Executar, Usar e Testar o Projeto
+## ⚙️ Como Executar, Usar e Testar o Projeto
 
 1.Clone o repositório:
 
@@ -104,17 +104,17 @@ Integração com notificações (e-mail/Teams).
 ## 📖 Manual de Instalação
 > Status: Em processo 🟡
 
-✅ Checklist de DoR e DoD
+## ✅ Checklist de DoR e DoD
 
-DoR (Definition of Ready): Critérios para início de uma história.
+# DoR (Definition of Ready): Critérios para início de uma história.
 
-DoD (Definition of Done): Critérios para aceite da entrega.
+# DoD (Definition of Done): Critérios para aceite da entrega.
 
-📌 DoR e DoD por Sprint
+## 📌 DoR e DoD por Sprint
 
-> Sprint 1
->
-> Sprint 2
+-Sprint 1
+
+-Sprint 2
 
 
 ## 👥 Equipe
