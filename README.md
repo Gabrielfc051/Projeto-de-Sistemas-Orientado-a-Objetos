@@ -21,9 +21,9 @@
 
 -Uma empresa de médio porte possui um setor de TI responsável por atender solicitações internas de suporte técnico. Atualmente, todas as requisições são recebidas por e-mail ou telefone, o que gera:
 
--Dificuldades no controle dos chamados;
+-Dificuldades no controle dos chamados.
 
--Atrasos na resolução;
+-Atrasos na resolução.
 
 -Falhas na priorização dos problemas.
 
@@ -63,7 +63,8 @@
 | 📌 SPRINT 10 | 22/10| Entrega prevista do projeto 4. |
 
 
-## 💻 Tecnologias Usadas (até o momento)
+## 💻 Tecnologias Usadas 
+> (até o momento)
 
 ![Astah](https://img.shields.io/badge/Astah-3776AB?style=for-the-badge&logo=astah&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-3776AB?style=for-the-badge&logo=figma&logoColor=white)
@@ -80,31 +81,8 @@
 
 
 ## ⚙️ Como Executar, Usar e Testar o Projeto
+> Status: Em processo 🟡
 
-**1.** Clone o repositório:
-
-- git clone https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos.git
-- cd Projeto-de-Sistemas-Orientado-a-Objetos
-
-**2.** Configure o ambiente virtual e instale as dependências:
-
-- python -m venv venv
-- source venv/bin/activate  # Linux/Mac
-- venv\Scripts\activate     # Windows
-- pip install -r requirements.txt
-
-**3.** Execute o servidor backend:
-
-- python manage.py runserver
-
-**4.** Execute o frontend (React):
-
-- cd frontend
-- npm install
-- npm start
-
-**5.** Testes:
-- pytest
 
 ## 📖 Manual de Instalação
 > Status: Em processo 🟡
