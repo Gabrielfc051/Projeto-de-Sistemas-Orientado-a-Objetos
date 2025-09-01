@@ -70,8 +70,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
 
-## 📂 Estrutura do Projeto
-- 📦 **sistema-suporte-ia**
+## 📦 Estrutura do Projeto
   - 📂 **docs/** → Documentação e relatórios de Sprint  
   - 📂 **frontend/** → Protótipos e código do frontend  
   - 📂 **backend/** → API e lógica de negócio  
@@ -82,29 +81,29 @@
 
 ## ⚙️ Como Executar, Usar e Testar o Projeto
 
-1.Clone o repositório:
+**1.** Clone o repositório:
 
 - git clone https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos.git
 - cd Projeto-de-Sistemas-Orientado-a-Objetos
 
-2.Configure o ambiente virtual e instale as dependências:
+**2.** Configure o ambiente virtual e instale as dependências:
 
 - python -m venv venv
 - source venv/bin/activate  # Linux/Mac
 - venv\Scripts\activate     # Windows
 - pip install -r requirements.txt
 
-3.Execute o servidor backend:
+**3.** Execute o servidor backend:
 
 - python manage.py runserver
 
-4.Execute o frontend (React):
+**4.** Execute o frontend (React):
 
 - cd frontend
 - npm install
 - npm start
 
-5.Testes:
+**5.** Testes:
 - pytest
 
 ## 📖 Manual de Instalação
