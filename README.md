@@ -63,8 +63,7 @@
 | 📌 SPRINT 10 | 22/10| Entrega prevista do projeto 4. |
 
 
-## 💻 Tecnologias Usadas 
-> (até o momento)
+## 💻 Tecnologias Usadas
 
 ![Astah](https://img.shields.io/badge/Astah-3776AB?style=for-the-badge&logo=astah&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-3776AB?style=for-the-badge&logo=figma&logoColor=white)
@@ -89,16 +88,6 @@
 
 
 ## ✅ Checklist de DoR e DoD
-
--DoR (Definition of Ready): Critérios para início de uma história.
-
--DoD (Definition of Done): Critérios para aceite da entrega.
-
-### 📌 DoR e DoD por Sprint
-
--Sprint 1
-
--Sprint 2
 
 
 ## 👥 Equipe
