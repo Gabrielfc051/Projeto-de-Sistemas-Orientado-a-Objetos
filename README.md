@@ -18,7 +18,7 @@
 
 ## 📝 Descrição do Desafio
 
-Uma empresa de médio porte possui um setor de TI responsável por atender solicitações internas de suporte técnico. Atualmente, todas as requisições são recebidas por e-mail ou telefone, o que gera:
+- Uma empresa de médio porte possui um setor de TI responsável por atender solicitações internas de suporte técnico. Atualmente, todas as requisições são recebidas por e-mail ou telefone, o que gera:
 
 -Dificuldades no controle dos chamados;
 
@@ -30,19 +30,19 @@ Uma empresa de médio porte possui um setor de TI responsável por atender solic
 
 ## 📦 Backlog de Produto
 
--Registro de solicitações de suporte.
+- Registro de solicitações de suporte.
 
--Sugestões automáticas via IA.
+- Sugestões automáticas via IA.
 
--Encaminhamento ao técnico responsável.
+- Encaminhamento ao técnico responsável.
 
--Priorização de chamados por urgência e complexidade.
+- Priorização de chamados por urgência e complexidade.
 
--Relatórios gerenciais para acompanhamento.
+- Relatórios gerenciais para acompanhamento.
 
--Histórico de solicitações por usuário.
+- Histórico de solicitações por usuário.
 
--Integração com notificações (e-mail/Teams).
+- Integração com notificações (e-mail/Teams).
 
 ## 📅 Cronograma de Sprints
 
@@ -59,20 +59,20 @@ Uma empresa de médio porte possui um setor de TI responsável por atender solic
 | 📌 SPRINT 9 | 15/10 | Documentação e preparação para entrega. |
 | 📌 SPRINT 10 | 22/10| Entrega prevista do projeto 4. |
 
-## 💻 Tecnologias Usadas até o Momento
+## 💻 Tecnologias Usadas (até o momento)
 
 ![Astah](https://img.shields.io/badge/Astah-3776AB?style=for-the-badge&logo=astah&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-3776AB?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📂 Estrutura do Projeto
-# 📦 sistema-suporte-ia
- | 📂 docs/           → Documentação e relatórios de Sprint
- | 📂 frontend/       → Protótipos e código do frontend
- | 📂 backend/        → API e lógica de negócio
- | 📂 database/       → Scripts e modelos do banco de dados
- | 📂 tests/          → Casos de teste
- | README.md          → Documentação principal
+### 📦 sistema-suporte-ia
+| 📂 docs/           → Documentação e relatórios de Sprint
+| 📂 frontend/       → Protótipos e código do frontend
+| 📂 backend/        → API e lógica de negócio
+| 📂 database/       → Scripts e modelos do banco de dados
+| 📂 tests/          → Casos de teste
+| README.md          → Documentação principal
 
 ## ⚙️ Como Executar, Usar e Testar o Projeto
 
@@ -106,9 +106,9 @@ Uma empresa de médio porte possui um setor de TI responsável por atender solic
 
 ## ✅ Checklist de DoR e DoD
 
-# DoR (Definition of Ready): Critérios para início de uma história.
+### DoR (Definition of Ready): Critérios para início de uma história.
 
-# DoD (Definition of Done): Critérios para aceite da entrega.
+### DoD (Definition of Done): Critérios para aceite da entrega.
 
 ## 📌 DoR e DoD por Sprint
 
