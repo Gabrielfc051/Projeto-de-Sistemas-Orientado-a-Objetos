@@ -88,7 +88,7 @@
 
 
 ## ✅ Checklist de DoR
-> Critérios mínimos que uma tarefa ou funcionalidade deve atender para ser considerada pronta para desenvolvimento:
+- **Critérios mínimos que uma tarefa ou funcionalidade deve atender para ser considerada pronta para desenvolvimento:**
 
 -História ou funcionalidade descrita claramente, com escopo e objetivo definidos.
 
@@ -115,7 +115,7 @@
 -Time compreende completamente a tarefa, sem dúvidas pendentes.
 
 ## ✅ Checklist de DoD
-> Critérios que definem quando uma tarefa ou funcionalidade está completa, funcional e pronta para entrega:
+- **Critérios que definem quando uma tarefa ou funcionalidade está completa, funcional e pronta para entrega:**
 
 -Funcionalidade implementada conforme os critérios de aceitação.
 
