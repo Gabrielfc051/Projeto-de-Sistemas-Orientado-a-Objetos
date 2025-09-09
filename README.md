@@ -4,7 +4,7 @@
 
 <div align="center">
 
-| [Descrição do Desafio](##descricao-do-desafio) | [Backlog do Produto](##backlog-do-produto) | [Cronograma de Sprints](##cronograma-de-sprints) | [Tecnologias Utilizadas](##tecnologias-utilizadas) | [Estrutura do Projeto](##estrutura-do-projeto) | [Como Executar, Usar e Testar o Projeto](##como-executar-usar-e-testar-o-projeto) | [Manual de Instalação](##manual-de-instalacao) | [Checklist de DoR e DoD](##checklist-de-dor-e-dod) | [Equipe](##equipe) |
+| [Descrição do Desafio](##descricao-do-desafio) | [Backlog do Produto](##backlog-do-produto) | [Cronograma de Sprints](##cronograma-de-sprints) | [Tecnologias Utilizadas](##tecnologias-utilizadas) | [Estrutura do Projeto](##estrutura-do-projeto) | [Como Executar, Usar e Testar o Projeto](##como-executar-usar-e-testar-o-projeto) | [Manual de Instalação](##manual-de-instalacao) | [Checklist de DoR](##checklist-de-dor) | [Checklist de DoD](##checklist-de-dod) | [Equipe](##equipe) |
 
 </div>
 
@@ -63,7 +63,7 @@
 | 📌 SPRINT 10 | 22/10| Entrega prevista do projeto 4. |
 
 
-## 💻 Tecnologias Usadas
+## 💻 Tecnologias Utilizadas
 
 ![Astah](https://img.shields.io/badge/Astah-3776AB?style=for-the-badge&logo=astah&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-3776AB?style=for-the-badge&logo=figma&logoColor=white)
