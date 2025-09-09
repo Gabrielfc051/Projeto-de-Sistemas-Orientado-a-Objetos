@@ -4,7 +4,7 @@
 
 <div align="center">
 
-| [Descrição do Desafio](#descrição-do-desafio) | [Backlog do Produto](#backlog-do-produto) | [Cronograma de Sprints](#cronograma-de-sprints) | [Tecnologias Utilizadas](#tecnologias-utilizadas) | [Estrutura do Projeto](#estrutura-do-projeto) | [Como Executar, Usar e Testar o Projeto](#como-executar-usar-e-testar-o-projeto) | [Manual de Instalação](#manual-de-instalação) | [Checklist de DoR e DoD](#checklist-de-dor-e-dod) | [Equipe](#equipe) |
+| [Descrição do Desafio](#descricao-do-desafio) | [Backlog do Produto](#backlog-do-produto) | [Cronograma de Sprints](#cronograma-de-sprints) | [Tecnologias Utilizadas](#tecnologias-utilizadas) | [Estrutura do Projeto](#estrutura-do-projeto) | [Como Executar, Usar e Testar o Projeto](#como-executar-usar-e-testar-o-projeto) | [Manual de Instalação](#manual-de-instalacao) | [Checklist de DoR e DoD](#checklist-de-dor-e-dod) | [Equipe](#equipe) |
 
 </div>
 
