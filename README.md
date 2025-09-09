@@ -12,7 +12,7 @@
 >
 > Relatório de Testes: [PDF](link) 📄 **Em desenvolvimento**
 >
-> Pasta de Documentação: [Link](link) 🔗 **Em desenvolvimento**
+> Pasta de Documentação: [Link](docs) 🔗 **Em desenvolvimento**
 >
 > Vídeo do Projeto: [Youtube](link) 🎥 **Em desenvolvimento**
 
