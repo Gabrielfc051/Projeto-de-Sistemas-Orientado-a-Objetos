@@ -16,6 +16,7 @@
 >
 > Vídeo do Projeto: [Youtube](link) 🎥 **Em desenvolvimento**
 
+
 <a id="descricao-do-desafio"></a>
 ## 📝 Descrição do Desafio
 
@@ -30,6 +31,7 @@
 - A solução proposta é um sistema integrado de suporte técnico com IA, permitindo que os colaboradores registrem suas solicitações diretamente na plataforma, com inteligência artificial sugerindo soluções automáticas ou encaminhando ao técnico adequado com base no histórico de chamados e na complexidade do problema.
   
 
+<a id="backlog-do-produto"></a>
 ## 📦 Backlog do Produto
 
 - Registro de solicitações de suporte.
@@ -47,6 +49,7 @@
 - Integração com notificações (e-mail/Teams).
 
 
+<a id="cronograma-de-sprints"></a>
 ## 📅 Cronograma de Sprints
 
 | Sprint   | Período       | Documentação        |
@@ -63,6 +66,7 @@
 | 📌 SPRINT 10 | 22/10| Entrega prevista do projeto 4. |
 
 
+<a id="tecnologias-utilizadas"></a>
 ## 💻 Tecnologias Utilizadas
 
 ![Astah](https://img.shields.io/badge/Astah-3776AB?style=for-the-badge&logo=astah&logoColor=white)
@@ -70,6 +74,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
 
+<a id="estrutura-do-projeto"></a>
 ## 📦 Estrutura do Projeto
   - 📂 [docs](docs) → Documentação e relatórios de Sprint  
   - 📂 [frontend](frontend) → Protótipos e código do frontend  
@@ -79,14 +84,17 @@
   - 📄 [readme](readme) → Documentação principal  
 
 
+<a id="como-executar-usar-e-testar-o-projeto"></a>
 ## ⚙️ Como Executar, Usar e Testar o Projeto
 > Status: Em processo 🟡
 
 
+<a id="manual-de-instalacao"></a>
 ## 📖 Manual de Instalação
 > Status: Em processo 🟡
 
 
+<a id="checklist-de-dor"></a>
 ## ✅ Checklist de DoR
 - **Critérios mínimos que uma tarefa ou funcionalidade deve atender para ser considerada pronta para desenvolvimento:**
 
@@ -114,6 +122,8 @@
 
 -Time compreende completamente a tarefa, sem dúvidas pendentes.
 
+
+<a id="checklist-de-dod"></a>
 ## ✅ Checklist de DoD
 - **Critérios que definem quando uma tarefa ou funcionalidade está completa, funcional e pronta para entrega:**
 
@@ -142,6 +152,7 @@
 -Funcionalidade validada.
 
 
+<a id="equipe"></a>
 ## 👥 Equipe
 
 | Membro                       | Função          | GitHub                                                                                     | LinkedIn                                                                                   |
