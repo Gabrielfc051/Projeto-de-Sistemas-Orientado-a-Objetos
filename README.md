@@ -10,7 +10,7 @@
 
 > Status do Projeto: Em processo 🟡
 >
-> Relatório de Testes: [PDF](link) 📄 **Em desenvolvimento**
+> Relatório de Testes: [PDF](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/relatorio-de-testes.md) 📄 **Em desenvolvimento**
 >
 > Pasta de Documentação: [Link](docs) 🔗 **Em desenvolvimento**
 >
