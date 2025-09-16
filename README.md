@@ -33,55 +33,28 @@
 
 <a id="backlog-do-produto"></a>
 ## 📦 Backlog do Produto
-- Consulte o backlog [aqui](docs/.md/backlog-do-produto.md)
 [![📦 Backlog do Produto](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/teste.jpg)](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/backlog-do-produto.md)
-
-[![📅 Cronograma de Sprints](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/teste.jpg)](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/cronograma-de-sprints.md)
 
 <a id="cronograma-de-sprints"></a>
 ## 📅 Cronograma de Sprints
-
-
-| Sprint   | Período       | Documentação        |
-|----------|--------------|---------------------|
-| 📌 SPRINT 1 | 20/08 | Elaboração do Github pessoal e do repositório do projeto. |
-| 📌 SPRINT 2 | 27/08 | Configuração do ambiente de desenvolvimento. |
-| 📌 SPRINT 3 | 03/09 | Início da codificaçação - módulo da gestão de usuários. |
-| 📌 SPRINT 4 | 10/09 | Desenvolvimento do módulo de chamados. |
-| 📌 SPRINT 5 | 17/09 | Desenvolvimento do módulo de suporte técnico. |
-| 📌 SPRINT 6 | 24/09 | Integração da funcionalidade de IA. |
-| 📌 SPRINT 7 | 01/10 | Teste unitários e de integração. |
-| 📌 SPRINT 8 | 08/10 | Correção de bugs e ajustes de interface. |
-| 📌 SPRINT 9 | 15/10 | Documentação e preparação para entrega. |
-| 📌 SPRINT 10 | 22/10| Entrega prevista do projeto 4. |
-
+[![📅 Cronograma de Sprints](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/teste.jpg)](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/cronograma-de-sprints.md)
 
 <a id="tecnologias-utilizadas"></a>
 ## 💻 Tecnologias Utilizadas
-
-![Astah](https://img.shields.io/badge/Astah-3776AB?style=for-the-badge&logo=astah&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-3776AB?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-
+[![💻 Tecnologias Utilizadas](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/teste.jpg)](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/tecnologias-utilizadas.md)
 
 <a id="estrutura-do-projeto"></a>
 ## 📦 Estrutura do Projeto
-  - 📂 [docs](docs) → Documentação e relatórios de Sprint  
-  - 📂 [frontend](frontend) → Protótipos e código do frontend  
-  - 📂 [backend](backend) → API e lógica de negócio  
-  - 📂 [database](database) → Scripts e modelos do banco de dados
-  - 📂 [testes](testes) → Casos de teste  
-  - 📄 [readme](readme) → Documentação principal  
-
+[![📦 Estrutura do Projeto](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/teste.jpg)](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/estrutura-do-projeto.md)
 
 <a id="como-executar-usar-e-testar-o-projeto"></a>
 ## ⚙️ Como Executar, Usar e Testar o Projeto
-> Status: Em processo 🟡
+[![⚙️ Como Executar, Usar e Testar o Projeto](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/teste.jpg)](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/como-executar-usar-e-testar-o-projeto.md)
 
 
 <a id="manual-de-instalacao"></a>
 ## 📖 Manual de Instalação
-> Status: Em processo 🟡
+[![📖 Manual de Instalação](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/teste.jpg)](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/manual-de-instalacao.md)
 
 
 <a id="checklist-de-dor"></a>
