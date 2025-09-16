@@ -18,7 +18,7 @@
 
 
 <a id="descricao-do-projeto"></a>
-[![📝 Descrição do Projeto](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/desafio-do-projeto.png)](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/descricao-do-desafio.md)
+[![📝 Descrição do Projeto](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/descricao-do-projeto.png)](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/descricao-do-desafio.md)
   
 
 <a id="backlog-do-produto"></a>
