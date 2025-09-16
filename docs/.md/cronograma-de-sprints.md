@@ -1,3 +1,4 @@
+## 📅 Cronograma de Sprints
 | Sprint   | Período       | Documentação        |
 |----------|--------------|---------------------|
 | 📌 SPRINT 1 | 20/08 | Elaboração do Github pessoal e do repositório do projeto. |
