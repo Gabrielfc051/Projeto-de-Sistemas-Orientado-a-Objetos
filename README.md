@@ -4,7 +4,7 @@
 
 <div align="center">
 
-| [Descrição do Desafio](#descricao-do-desafio) | [Backlog do Produto](#backlog-do-produto) | [Cronograma de Sprints](#cronograma-de-sprints) | [Tecnologias Utilizadas](#tecnologias-utilizadas) | [Estrutura do Projeto](#estrutura-do-projeto) | [Como Executar, Usar e Testar o Projeto](#como-executar-usar-e-testar-o-projeto) | [Manual de Instalação](#manual-de-instalacao) | [Checklist de DoR](#checklist-de-dor) | [Checklist de DoD](#checklist-de-dod) | [Equipe](#equipe) |
+| [Descrição do Projeto](#descricao-do-projeto) | [Backlog do Produto](#backlog-do-produto) | [Cronograma de Sprints](#cronograma-de-sprints) | [Tecnologias Utilizadas](#tecnologias-utilizadas) | [Estrutura do Projeto](#estrutura-do-projeto) | [Manual de Instalação](#manual-de-instalacao) | [Checklist de DoR](#checklist-de-dor) | [Checklist de DoD](#checklist-de-dod) | [Equipe](#equipe) |
 
 </div>
 
@@ -17,8 +17,8 @@
 > Vídeo do Projeto: [Youtube](link) 🎥 **Em desenvolvimento**
 
 
-<a id="descricao-do-desafio"></a>
-[![📝 Descrição do Desafio](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/desafio-do-projeto.png)](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/descricao-do-desafio.md)
+<a id="descricao-do-projeto"></a>
+[![📝 Descrição do Projeto](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/desafio-do-projeto.png)](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/descricao-do-desafio.md)
   
 
 <a id="backlog-do-produto"></a>
