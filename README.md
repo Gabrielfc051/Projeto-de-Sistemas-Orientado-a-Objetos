@@ -32,40 +32,31 @@
   
 
 <a id="backlog-do-produto"></a>
-## 📦 Backlog do Produto
 [![📦 Backlog do Produto](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/backlog-do-produto.png)](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/backlog-do-produto.md)
 
 <a id="cronograma-de-sprints"></a>
-## 📅 Cronograma de Sprints
 [![📅 Cronograma de Sprints](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/cronograma-de-sprints.png)](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/cronograma-de-sprints.md)
 
 <a id="tecnologias-utilizadas"></a>
-## 💻 Tecnologias Utilizadas
 [![💻 Tecnologias Utilizadas](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/tecnologias-utilizadas.png)](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/tecnologias-utilizadas.md)
 
 <a id="estrutura-do-projeto"></a>
-## 📦 Estrutura do Projeto
 [![📦 Estrutura do Projeto](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/estrutura-do-projeto.png)](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/estrutura-do-projeto.md)
 
 <a id="como-executar-usar-e-testar-o-projeto"></a>
-## ⚙️ Como Executar, Usar e Testar o Projeto
 [![⚙️ Como Executar, Usar e Testar o Projeto](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/manual-do-sistema.png)](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/como-executar-usar-e-testar-o-projeto.md)
 
 
 <a id="manual-de-instalacao"></a>
-## 📖 Manual de Instalação
 [![📖 Manual de Instalação](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/manual-do-sistema.png)](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/manual-de-instalacao.md)
 
 
 <a id="checklist-de-dor"></a>
-## ✅ Checklist de DoR
 [![✅ Checklist de DoR](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/checklist-de-dor.png)](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/checklist-de-dor.md)
 
 <a id="checklist-de-dod"></a>
-## ✅ Checklist de DoD
 [![✅ Checklist de DoD](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/checklist-de-dod.png)](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/checklist-de-dod.md)
 
 
 <a id="equipe"></a>
-## 👥 Equipe
 [![👥 Equipe](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/equipe.png)](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/equipe.md)
