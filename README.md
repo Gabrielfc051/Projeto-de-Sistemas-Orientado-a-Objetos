@@ -16,7 +16,7 @@
 >
 > Vídeo do Projeto: [Youtube](link) 🎥 **Em desenvolvimento**
 
-
+<div align="center">
 <a id="descricao-do-projeto"></a>
 [![📝 Descrição do Projeto](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/descricao-do-projeto.png)](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/descricao-do-desafio.md)
   
@@ -45,3 +45,5 @@
 
 <a id="equipe"></a>
 [![👥 Equipe](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/equipe.png)](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/equipe.md)
+
+</div>
