@@ -4,4 +4,4 @@
   - 📂 /backend → API e lógica de negócio  
   - 📂 /database → Scripts e modelos do banco de dados
   - 📂 /testes → Casos de teste  
-  - 📄 [readme](readme) → Documentação principal  
+  - readme → Documentação principal  
